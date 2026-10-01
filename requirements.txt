@@ -1,0 +1,6 @@
+Bibliotecas do python necessárias para as análises:
+- pandas
+- matplotlib
+- cartopy
+- numpy
+- seaborn
