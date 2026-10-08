@@ -17,8 +17,8 @@ Artur Oliveira · Diego Schapieski · Guilherme Padilha · Rafael Rodrigues
 # Dados
 
 - [UCDP Georeferenced Event Dataset (GED) v26.1](https://ucdp.uu.se/downloads/) · Uppsala Conflict Data Program — eventos de violência organizada, com localização e número de mortes
-- [World Bank Indicators](https://data.worldbank.org/) · Banco Mundial — PIB per capita, mortalidade infantil, expectativa de vida, internet, energia, desemprego, densidade populacional e grupo de renda
-- [Human Development Index (HDI)](https://hdr.undp.org/data-center) · PNUD — IDH e componentes
+- [World Bank Indicators](https://mavenanalytics.io/data-playground/world-economic-indicators) · Banco Mundial — PIB per capita, mortalidade infantil, expectativa de vida, internet, energia, desemprego, densidade populacional e grupo de renda
+- [Human Development Index (HDI)](https://mavenanalytics.io/data-playground/world-economic-indicators) · PNUD — IDH e componentes
 
 Os arquivos devem ficar na pasta `data/`:
 
