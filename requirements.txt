@@ -1,6 +1,7 @@
-Bibliotecas do python necessárias para as análises:
-- pandas
-- matplotlib
-- cartopy
-- numpy
-- seaborn
+#Bibliotecas do python necessárias para as análises:
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+cartopy>=0.22
+openpyxl>=3.1

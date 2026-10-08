@@ -8,7 +8,7 @@ Estrutura esperada do projeto:
     └── data/                         <- GEDEvent_v26_1.xlsx, WorldBank.xlsx, HDI.csv
 
 Uso (a partir da raiz):  python src/analise_conflitos.py
-Os PNGs são salvos em ./graficos (pasta atual de execução).
+Os PNGs são salvos em ./images (pasta atual de execução).
 """
 from pathlib import Path
 
@@ -28,7 +28,7 @@ except ImportError:
 # Este arquivo fica em raiz/src/; os dados ficam em raiz/data/
 RAIZ = Path(__file__).resolve().parent.parent
 DATA_DIR = RAIZ / "data"
-OUT_DIR = Path("graficos")
+OUT_DIR = Path("images")
 OUT_DIR.mkdir(exist_ok=True)
 ANO_INI, ANO_FIM = 1990, 2018          # período em comum entre as 3 bases
 
